@@ -30,4 +30,4 @@ Make sure to follow all recommendation about how to setup your license: [Licensi
 
 Make sure to register your license before calling any other methods from our library. Otherwise, you could enable the trial period instead.
 
-Make sure to follow all recommendation about how to setup your license: [Licensing](http://dapper-plus.net/licensing)
+Make sure to follow all recommendations about how to setup your license: [Licensing](http://dapper-plus.net/licensing)
