@@ -120,7 +120,7 @@ Yes, contact us if you are a reseller or seeking for a reseller.
 Email: <a href="mailto:sales@zzzprojects.com">sales@zzzprojects.com</a>
 
 ### What `2-4` developer seats mean?
-It means that you can use the license for up 4 developers in your team.
+It means that you can use the license for up to 4 developers in your team.
 
 The `5-9` developer seats mean you can use the license with up 9 developers.
 
@@ -132,14 +132,14 @@ Please contact us with the number of seats required. We offer some additional gr
 Email: <a href="mailto:sales@zzzprojects.com">sales@zzzprojects.com</a>
 
 ### Is the license perpetual?
-The product comes with a one year of support & upgrade but the license is perpetual (indefinitely use). So you are not forced to renew every year or renew at all.
+The product comes with one year of support & upgrade but the license is perpetual (indefinitely use). So, you are not obligated to renew every year.
 
-Renewing come with a lot of benefits such as a 25%/35%/50% discount on purchase price, discounted or free product, etc.
+Nontheless, renewing comes with a lot of benefits such as a 25%/35%/50% discount on purchase price, discounted or free product, etc.
 
-### Why this library is not free and open source?
+### Why is this library not free and open source?
 `ZZZ Projects` mission is focused on adding value to the `.NET Community` and supporting a lot of `free and open source` libraries.
 
-However, this mission cannot be successful without being able to pay our developers for the time they pass to support & develop features for free and paid libraries.
+However, this mission cannot be successful without being able to pay our developers for the time they spend to support & develop features for free and paid libraries.
 
 #### Free Librairies
 
@@ -156,7 +156,7 @@ However, this mission cannot be successful without being able to pay our develop
 - [NuGet Must Haves](http://nugetmusthaves.com/){:target="_blank"}
 - [Dapper Tutorial](http://dapper-tutorial.net/){:target="_blank"}
 
-By contributing on paid libraries, you are also helping in keeping other libraries and website FREE.
+By contributing to paid libraries, you are also helping to keep other libraries and websites FREE.
 
 </div>
 </div>
