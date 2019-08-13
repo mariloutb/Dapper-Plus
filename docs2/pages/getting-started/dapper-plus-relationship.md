@@ -2,7 +2,7 @@
 
 ## Definition
 
-In our example, you often see us chaining multiples actions without specifying the relation parent/child even when the parent use an auto-generated identity value.
+In our example, you often see us chaining multiple actions without specifying the relation parent/child even when the parent use an auto-generated identity value.
 
 ### Relationship Examples
 ```csharp
